@@ -1,0 +1,82 @@
+[
+  {
+    "timestamp": "2026-05-28T18:43:14.307997",
+    "url": "http://www.site.com",
+    "acao": "permitido"
+  },
+  {
+    "timestamp": "2026-05-28T18:43:38.202509",
+    "url": "http://www.site.com",
+    "acao": "permitido"
+  },
+  {
+    "timestamp": "2026-05-28T18:53:59.761834",
+    "url": "http://httpforever.com/",
+    "acao": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-28T19:16:32.701039",
+    "url": "http://www.site.com",
+    "acao": "permitido"
+  },
+  {
+    "timestamp": "2026-05-28T19:21:37.542224",
+    "url": "http://www.instagram.com",
+    "acao": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-28T19:23:21.850982",
+    "url": "http://localhost:8080/teste_palavrao.html",
+    "acao": "permitido"
+  },
+  {
+    "timestamp": "2026-05-28T19:31:03.641571",
+    "url": "http://localhost:8080/teste_palavrao.html",
+    "acao": "filtrado"
+  },
+  {
+    "timestamp": "2026-05-28T19:37:37.059186",
+    "url": "http://www.google.com",
+    "acao": "permitido"
+  },
+  {
+    "timestamp": "2026-05-28T19:37:57.340277",
+    "url": "http://www.google.com",
+    "acao": "permitido"
+  },
+  {
+    "timestamp": "2026-05-28T19:38:04.268993",
+    "url": "http://www.google.com",
+    "acao": "permitido"
+  },
+  {
+    "timestamp": "2026-05-28T19:38:07.542901",
+    "url": "http://www.google.com",
+    "acao": "permitido"
+  },
+  {
+    "timestamp": "2026-05-28T19:40:23.518961",
+    "url": "http://example.com",
+    "acao": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-28T19:42:27.809975",
+    "url": "http://httpforever.com/",
+    "acao": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-28T19:44:24.487122",
+    "url": "http://www.instagram.com",
+    "acao": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-28T19:44:28.856999",
+    "url": "http://www.instagram.com",
+    "acao": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-28T19:45:14.925520",
+    "url": "http://www.instagram.com",
+    "acao": "bloqueado"
+  }
+]
